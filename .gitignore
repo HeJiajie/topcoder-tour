@@ -1,0 +1,9 @@
+*.class
+
+# Emacs backup files #
+*~
+
+# Package Files #
+*.jar
+*.war
+*.ear
